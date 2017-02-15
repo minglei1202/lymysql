@@ -1,13 +1,13 @@
 {
   "name": "lymysql",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "mysql model",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Limily",
-  "license": "ISC", 
+  "license": "ly000001", 
   "devDependencies": {
     "mysql": "^1.0.0",
     "q": "^1.0.0"
