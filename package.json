@@ -1,17 +1,21 @@
 {
   "name": "lymysql",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "description": "mysql model",
   "main": "index.js",
   "scripts": {
     "test": "make test"
   },
+  "keywords": [
+    "mysql",
+    "model"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/minglei1202/lymysql.git"
   },
   "author": "Limily",
-  "license": "ly000001", 
+  "license": "LML", 
   "dependencies": {
     "mysql": ">=0.0.0",
     "q": ">=0.0.0"
