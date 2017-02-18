@@ -9,7 +9,7 @@
   var model = lymysql.database("database name").connect(host,user,pwd,port);
   </pre>
   
-### 查询单条记录
+## 增加记录
   <pre>
   model.table("xxx").where({id:1}).fields("*").find();
   </pre>
