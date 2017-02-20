@@ -11,14 +11,14 @@
   
 ### 增加记录<br />
   add(params)<br />
-  ####params为json
+  params为json
   <pre>
   model.table("xxx").add({member_id:1});
   </pre>
   
 ### 查询多条记录<br />
   select(params)<br />
-  ####params为json
+  params为json
   <pre>
   model.table("xxx").where({id:1}).fields("*").limit(20,0).order("id desc").select();
   </pre>
