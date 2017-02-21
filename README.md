@@ -35,6 +35,13 @@ params为json
   add(params);
   ```
   
+### 更新记录
+
+params为json数组
+
+  ```
+  update(params);
+  ```
   
 ### 增加多条记录
 
